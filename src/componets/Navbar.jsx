@@ -12,11 +12,11 @@ export default function Navbar() {
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
             <li className="nav-item">
-              <NavLink className="nav-link" to='/Sign IN'>Sign in</NavLink>
+              <NavLink className="nav-link" to='/SignIN'>Sign in</NavLink>
             </li>
 
             <li className="nav-item">
-              <NavLink className="nav-link" to='/Sign Up'>Sign Up</NavLink>
+              <NavLink className="nav-link" to='/SignUp'>Register</NavLink>
             </li>
 
             <li className="nav-item">
